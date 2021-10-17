@@ -1,0 +1,119 @@
+.header {
+    background: rgb(212, 69, 69);
+    height: 50px;
+}
+.form-group{
+    width: 200px;
+    margin-left: 600px;
+}
+
+.language {
+    margin: -43px 80px 0 800px;
+}
+#lang {
+    width: 20px;
+    height: 20px;
+}
+
+ul.list {
+    list-style-type: none;
+}
+
+#logopic {
+    width: 230px;
+    height: 190px;
+    border-radius: 5px;
+}
+
+ul.list2 {
+    margin: -30px 100px 0 300px;
+    word-spacing: 80px;
+    font-size: 35px;
+}
+
+ul.list2 li {
+    display: inline;
+}
+
+ul.list2 li a {
+    color: red;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.price {
+    margin: -100px 0 0 550px;
+    color: white;
+}
+.price1 {
+    margin: -100px 0 0 550px;
+    color: white;
+}
+.price2 {
+    margin: -100px 0 0 550px;
+    color: white;
+}
+
+ul.list2 {
+    margin: -60px 50px 0 250px;
+}
+
+.carousel-inner {
+    margin: 80px 0 0 0;
+}
+
+.location {
+    background: rgb(183, 226, 119);
+}
+
+.del {
+    margin: 50px 0 0 0;
+}
+
+.del {
+    display: inline-flex;
+}
+.partner {
+    text-align: center;
+    width: 100%;
+    background: rgb(172, 168, 211);
+    margin: 50px 100px 0 0;
+}
+
+#delivery {
+    margin: 20px 0 0 150px;
+}
+
+#fon {
+    position:absolute;
+    width: 100%;
+    height: 600px;
+}
+#glovo {
+    position: relative;
+    width: 25%;
+    height: 300px;
+    margin: 20px 0 0 100px;
+}
+#wolt {
+    position: relative;
+    width: 25%;
+    height: 290px;
+    margin: 20px 0 0 220px;
+}
+
+#picture {
+    height: 700px;
+    width: 100%;
+}
+
+#app {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+
+#contact {
+    margin: 230px 0 0 900px;
+}
